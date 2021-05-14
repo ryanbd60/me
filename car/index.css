@@ -1,0 +1,14 @@
+body {
+    background-image: url('hill2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .now{
+      display:flex;
+      justify-content: center;
+  }
+
+  a{
+      margin: 0px 20px 0px;
+  }
